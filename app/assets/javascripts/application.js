@@ -12,14 +12,15 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require turbolinks
+//= require bootstrap.min
 //= require flickr
 //= require flexslider.min
 //= require lightbox.min
+//= require masonry.min
 //= require twitterfetcher.min
+//= require spectragram.min
 //= require ytplayer.min
 //= require countdown.min
 //= require smooth-scroll.min
 //= require parallax
 //= require scripts
-//= require_tree .
